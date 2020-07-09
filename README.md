@@ -1,4 +1,5 @@
-# GamersClub Lobby Queue Waiter
+
+# GamersClub Lobby Creation Queue Waiter
 
 
 
@@ -8,9 +9,9 @@
 </p>
 <br>
 
-**Ta cansado de não ter dinheiro e querer jogar na GC e eles permitirem você criar lobby abaixo de 200 salas pois tu ta sem grana pra pagar ? Alem disso n consegue ser tão rápido pra criar uma sala ?** 
+**Ta cansado de não ter dinheiro e querer jogar na GC e eles permitirem você criar lobby abaixo de 200 salas e ainda não consegue ser tão rápido pra criar uma sala ?** 
 
-Esse script deverá ser sua solução, ele até emite um OLHA O GÁS quando cria a sala :D
+Esse script deverá ser sua solução, caso exista menos de 200 salas ele cria a sua rapido e até emite um OLHA O GÁS quando cria a sala :D
 
 
 # Uso
@@ -20,6 +21,17 @@ Esse script deverá ser sua solução, ele até emite um OLHA O GÁS quando cria
     Abra a Aba 'Console'
     Cole o codigo do script.js
     aperte enter e seja feliz!
+
+## FAQ
+
+> Isso é cheat ?
+Não, isso é apenas um macro para criar sua sala.
+
+>Da ban?
+Não deve dar ban, ele só automatiza os cliques que você iria fazer normalmente.
+
+  
+
 
 ## Licence
 Se liga na licença ai do script antes que tu kibe seu comédia!
